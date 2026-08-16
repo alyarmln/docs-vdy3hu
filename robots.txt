@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-i1cidr.cnkitawin.online/sitemap.xml
